@@ -6,7 +6,7 @@ This repository only contain the source codes. No data or saved models will be p
 
 All references to file structures points to Server SP3, unless otherwise stated.
 
-Project Code Structure
+Source Code Structure (Except for src folder, all other folders were not included in the public repository)
 ------------
 
     ├── LICENSE
@@ -60,8 +60,7 @@ File System on SP3 Structure(/home/kah1)
 
     ├── remote_cookie_runtime   <- A runtime replica of Project Code Structure
     ├── backup_u01         
-    │   ├── bigdata        
-    │   │   └── *.zip.bz2  <- Backups of the most important files    
+    │   ├── *.zip.bz2  <- Backups of the most important files    
     ├── nltk_data          <- Needed to perform lemmatization.
     ├── vX                 <- Local copy of selected data from BigData server
     ├── software           <- Installers for extra software needed.
