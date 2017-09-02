@@ -1,0 +1,10 @@
+Package: StuartMaxwellPairwiseTestStatistic
+Title: To compute pairwise StuartMaxwell statistics for a set of predictions
+Version: 0.0.0.9000
+Authors@R: person("Kah Siong", "Tan", email = "ucabks0@ucl.ac.uk", role = c("aut", "cre"))
+Description: s
+Depends: R (>= 3.4.1), coin
+License: WCN/UCL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
